@@ -15,6 +15,13 @@
   <img align=center alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align=center alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align=center alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <img align=center alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  
+  ![trunks](https://github.com/user-attachments/assets/8d0620dc-e5b8-4555-ba91-06c02802c717)
+
+ 
+   
+  
 
   "Debugar é humano, mas programar é divino."
   
