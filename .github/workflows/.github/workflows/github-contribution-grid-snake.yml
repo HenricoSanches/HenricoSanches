@@ -1,0 +1,18 @@
+name: Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Gera a cobrinha todo dia à meia-noite
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  snake-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+      - name: Generate snake game
+        uses: Platane/snk@v2
+        with:
+          github_user_name: HenricoSanches  # Seu nome de usuário do GitHub
+          svg_out_path: .github/CONTRIBUTION_GRID_SNAKE.svg
