@@ -9,7 +9,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenricoSanches&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-<!-- Snake Game animado -->
-<p align="center">
-  <img src="https://github.com/HenricoSanches/HenricoSanches/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
