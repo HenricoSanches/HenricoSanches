@@ -1,6 +1,6 @@
 <!-- Título animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=D3D3D3&center=true&vCenter=true&width=500&lines=Hello,+i+am+Henrico+Sanches;Software+Developer;For+honor+and+glory" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=D3D3D3&center=true&vCenter=true&width=500&lines=Hello,+i+am+Henrico+Sanches;A+Software+Developer;For+honor+and+glory." alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
