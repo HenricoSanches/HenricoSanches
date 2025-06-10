@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/JavaScript-2023-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-em%20aprendizado-61DAFB?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Estudante-ADS%20FACENS-purple?style=flat"/>
-  <img src="https://img.shields.io/badge/V8%20Racing-Membro-ff0000?style=flat&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
@@ -16,7 +15,6 @@
 ### 👨🏻‍💻 Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FACENS  
-- 🏎️ Membro da equipe de competição V8 Racing  
 - 💡 Interessado por simulações naturais, inteligência artificial e desenvolvimento web  
 - 🔍 Em busca de oportunidades como desenvolvedor ou analista de dados  
 - ⚙️ Tecnologias favoritas: JavaScript, React, Node.js, MySQL  
