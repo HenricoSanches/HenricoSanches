@@ -1,20 +1,20 @@
-<!-- Título animado -->
+<!-- Animated Title -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=D3D3D3&center=true&vCenter=true&width=500&lines=Hello,+i+am+Henrico+Sanches;A+Software+Developer;For+honor+and+glory." alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨🏻‍💻 Sobre mim
+### 👨🏻‍💻 About me
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FACENS  
-- 💡 Interessado por simulações naturais, inteligência artificial e desenvolvimento web  
-- 🔍 Em busca de oportunidades como desenvolvedor ou analista de dados  
-- ⚙️ Tecnologias favoritas: JavaScript, React, Node.js, MySQL  
+- 🎓 Student of Systems Analysis and Development at FACENS  
+- 💡 Interested in natural simulations, artificial intelligence, and web development  
+- 🔍 Seeking opportunities as a developer or data analyst  
+- ⚙️ Favorite technologies: JavaScript, React, Node.js, MySQL  
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
