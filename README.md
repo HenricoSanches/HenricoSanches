@@ -1,6 +1,6 @@
 <!-- Banner animado (você pode trocar a imagem por uma sua depois) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F2F2F&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Henrico+Sanches!;Desenvolvedor+em+formação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4F4F4F&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Henrico+Sanches!;Desenvolvedor+em+formação" alt="Typing SVG" />
 </p>
 
 <!-- GitHub Stats -->
