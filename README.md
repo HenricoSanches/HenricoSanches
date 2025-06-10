@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrico-sanches-8841682b5/)
 
 
-![HenricoSanches GitHub stats](https://github-readme-stats.vercel.app/api?username=henricosanches&show_icons=true&theme=merko)
+![HenricoSanches GitHub stats](https://github-readme-stats.vercel.app/api?username=henricosanches&show_icons=true&theme=dark)
 
 
 <div style="display: inline_block">
