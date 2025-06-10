@@ -6,7 +6,7 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-2023-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Estudante-ADS%20FACENS-purple?style=flat"/>
+  <img src="https://img.shields.io/badge/Estudante-ADS%20Facens-purple?style=flat"/>
 </p>
 
 ---
