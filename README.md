@@ -1,6 +1,6 @@
 <!-- Banner animado (você pode trocar a imagem por uma sua depois) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Olá,+me+chamo+Henrico+Sanches!;Desenvolvedor+em+formação;Apaixonado+por+tecnologia+e+inovação!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Henrico+Sanches!;Desenvolvedor+em+formação" alt="Typing SVG" />
 </p>
 
 <!-- GitHub Stats -->
