@@ -6,7 +6,6 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-2023-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-em%20aprendizado-61DAFB?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Estudante-ADS%20FACENS-purple?style=flat"/>
 </p>
 
@@ -37,6 +36,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenricoSanches&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenricoSanches&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenricoSanches&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenricoSanches&layout=compact&theme=dark"/>
 </p>
