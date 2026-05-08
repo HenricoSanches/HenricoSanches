@@ -1,19 +1,10 @@
-<!-- Animated Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Henrico+Sanches;Fullstack+Developer;ADS+Student+at+FACENS;Passionate+about+AI+and+Technology" alt="Typing SVG" />
-</p>
+👨‍💻 Softawre Developer at freeagent
 
----
+🎓 Graduated in Systems Analysis and Development at [FACENS](https://facens.br/)
 
-### 👨🏻‍💻 About Me
+🐶 Founder [RomeuAI](https://www.instagram.com/romeuia/)
 
-- 🎓 Systems Analysis and Development Student at FACENS
-- 🚀 Fullstack Developer focused on React, Node.js and TypeScript
-- 🤖 Interested in Artificial Intelligence and Natural Simulations
-- 💼 Seeking opportunities in Technology
-
----
-## 🚀 Technologies
+📫 Contato [henricosanches242@gmail.com](mailto:henricosanches242@gmail.com)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
