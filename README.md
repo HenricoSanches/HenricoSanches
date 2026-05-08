@@ -1,15 +1,20 @@
 <!-- Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=D3D3D3&center=true&vCenter=true&width=500&lines=Hello,+i+am+Henrico+Sanches;A+Software+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Henrico+Sanches;Fullstack+Developer;ADS+Student+at+FACENS;Passionate+about+AI+and+Technology" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨🏻‍💻 About me
+### 👨🏻‍💻 About Me
 
-- 🎓 Student of Systems Analysis and Development at FACENS  
-- 💡 Interested in natural simulations, artificial intelligence, and web development  
-- 🔍 Seeking opportunities... 
+- 🎓 Systems Analysis and Development Student at FACENS
+- 🚀 Fullstack Developer focused on React, Node.js and TypeScript
+- 🤖 Interested in Artificial Intelligence and Natural Simulations
+- 💼 Seeking opportunities in Technology
+
+---
+
+### 🚀 Technologies
 
 <div style="display: inline_block"><br>
 
@@ -31,6 +36,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 <img align="center" alt="CSS" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
+<img align="center" alt="Java" height="50" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
 <img align="center" alt="CSharp" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 
@@ -44,3 +52,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenricoSanches&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenricoSanches&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
